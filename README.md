@@ -5,6 +5,7 @@
   - Webpack，WebGL，小游戏，小程序...
 - 😄来都来了，这不顺手follow一下？
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
