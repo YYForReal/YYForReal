@@ -4,7 +4,7 @@
 - 🌱最近努力尝试更多更新的领域。
   - Webpack，WebGL，小游戏，小程序...
 - 😄来都来了，这不顺手follow一下？
-
+- Gitee 地址：https://gitee.com/friendArt
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYForReal)](https://github.com/anuraghazra/github-readme-stats)
 
 
