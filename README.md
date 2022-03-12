@@ -1,11 +1,11 @@
 ### 欢迎来访👋
 
 - 主要的前端技术栈是✨Vue✨
-- 🌱最近努力尝试更多更新的领域。
-  - Webpack，WebGL，小游戏，小程序...
+- 🌱level: 合格的API工程师。
+- 🌱next level: 合格的前端开发工程师
 - 😄来都来了，这不顺手follow一下？
 - Gitee 地址：https://gitee.com/friendArt
-- 个人导航：www.yywebsite.cn  (日后开放自定义导航页)
+- 个人导航：www.yywebsite.cn  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYForReal)](https://github.com/anuraghazra/github-readme-stats)
 
