@@ -3,7 +3,7 @@
 - 🌱level: 合格的API工程师。
 - 🌱next level: 合格的前端开发工程师
 - 😄来都来了，这不顺手follow一下？
-- Gitee 地址：https://gitee.com/friendArt
+- Gitee 地址：https://gitee.com/friendArt （存放不同项目）
 - 个人导航：www.yywebsite.cn  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYForReal)](https://github.com/anuraghazra/github-readme-stats)
