@@ -6,8 +6,6 @@
 - Gitee 地址：https://gitee.com/friendArt （存放不同项目）
 - 个人导航：www.yywebsite.cn  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYForReal)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **YYForReal/YYForReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
