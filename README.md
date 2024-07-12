@@ -7,14 +7,17 @@
   - 掘金主页：https://juejin.cn/user/3351784145298446/posts
 - 个人导航：www.yywebsite.cn  
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+![亮色](https://raw.githubusercontent.com/YYForReal/YYForReal/output/github-contribution-grid-snake.svg)
 
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图
+![暗色](https://raw.githubusercontent.com/YYForReal/YYForReal/output/github-contribution-grid-snake-dark.svg)
 -->
+
+
+
+
+
 
 <!--
 **YYForReal/YYForReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
