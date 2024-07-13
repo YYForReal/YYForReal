@@ -20,97 +20,84 @@
 
 <h2>🚀 Languages and Tools I Use</h2>
 
-## 前端开发
-<p>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="typescript" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"  alt="vuejs" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt="react" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5" width="42" height="42" />
-  </a>
+<h3>Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width='54' />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width='75' />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width='96' />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width='48' />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width='96' />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" width='78' />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width='48' />
 </p>
 
-## 后端开发
-<p>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  alt="nodejs" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"  style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"  alt="spring" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt="python" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="mysql" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"  alt="redis" width="42" height="42" />
-  </a>
+<h3>Frontend Development</h3>
+<h5>JS</h5>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" title="jQuery" width='48' />
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" width='90' />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width='54' />
+  <img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" title="Pinia" width='48' />
+  <img src="https://echarts.apache.org/zh/images/favicon.png" alt="ECharts.js" title="ECharts.js" width='54' />
+  <img src="https://qiniu-web-assets.dcloud.net.cn/unidoc/zh/icon.png" alt="uni-app" title="uni-app" width='48' />
+  <!--<img src="https://omi.cdn-go.cn/admin/latest/home/omi.svg" alt="OMI" title="OMI" width='78' />-->
+  <img src="./img/omi.svg" alt="OMI" title="OMI" width='78' />
+  
 </p>
 
-## 工具和框架
-<p>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  alt="tailwind" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  alt="sass" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg"  alt="bulma" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"  style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"  alt="flask" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"  alt="webpack" width="42" height="42" />
-  </a>
+<h5>CSS&UI</h5>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" width='54' />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width='60' />
+  <img src="https://skillicons.dev/icons?i=less" alt="Less" title="Less" width='48' />
+  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" title="Sass" width='48' />
+  <!--<img src="https://cdc.cdn-go.cn/tdc/latest/images/tdesign.svg" alt="TDesign" title="TDesign" width='78' />-->
+    <img src="./img/tdesign.svg" alt="TDesign" title="TDesign" width='78' />
+
+  <img src="https://uviewui.com/common/logo.png" alt="uView" title="uView" width='54' />
+  <img src="https://raw.githubusercontent.com/ElemeFE/element/dev/examples/assets/images/element-logo-small.svg" alt="Element UI" title="Element UI & Plus" width='96' /></p>
+
+<h5>Engineering</h5>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" width='48' />
+  <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" title="Webpack" width='60' />
 </p>
 
-## 数据科学和机器学习
-<p>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"  style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"  alt="pytorch" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"  style="display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"  alt="scikit_learn" width="42" height="42" />
-  </a>
+<h3>Backend Development & Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring" alt="Springboot" title="Springboot" width='50' />
+  <img src="https://skillicons.dev/icons?i=flask" alt="flask" title="flask" width='50' /><img src="https://neo4j.com/favicon-32x32.png" alt="neo4j" title="neo4j" width='64' />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width='56' />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width='48' />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" width='64' />
 </p>
 
-## 其他工具
-<p>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"  alt="git" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  alt="linux" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"  style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"  alt="selenium" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  alt="postman" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"  style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"  alt="unity" width="42" height="42" />
-  </a>
+<h3>LLM</h3>
+<p align="center">
+  <img src="https://python.langchain.com/v0.2/img/brand/wordmark.png" alt="langchain" title="langchain" width='165' />
+  <img src="https://docs.deepwisdom.ai/main/logo-dark.svg" alt="MetaGPT" title="MetaGPT" width='75' />
 </p>
+
+<h3>Automated Testing</h3><p align="center"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" title="Selenium" width='85' /></p>
+
+<h3>Development Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width='48' />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width='60' />  
+  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" title="PyCharm" width='48' />
+  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" title="Visual Studio" width='48' />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode" width='96' /> 
+  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" title="Eclipse" width='48' /> 
+    </p>
+
+<h3>Game Development</h3><p align="center"><img src="https://www.cocos.com/_nuxt/img/logo.b924db5.png" alt="Cocos" title="Cocos2dx & Cocos creator" width='75' /><img src="https://skillicons.dev/icons?i=unity" alt="Unity" title="Unity" width='48' /></p>
+
+<h3>Server-Related Technologies</h3><p align="center">  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width='78' /><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx" width='48' />  </p>
+
+
+
+
+
 
 
 
