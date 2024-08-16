@@ -90,7 +90,11 @@
   <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" title="Eclipse" width='48' /> 
     </p>
 
-<h3>Game Development</h3><p align="center"><img src="https://www.cocos.com/_nuxt/img/logo.b924db5.png" alt="Cocos" title="Cocos2dx & Cocos creator" width='75' /><img src="https://skillicons.dev/icons?i=unity" alt="Unity" title="Unity" width='48' /></p>
+<h3>Game Development</h3><p align="center">
+  <img src="https://docs.cocos2d-x.org/api-ref/cplusplus/V3.17/cocos2dx_portrait.png" alt="Cocos" title="Cocos2dx & Cocos creator" width='75' />
+
+  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" title="Unity" width='48' />
+</p>
 
 <h3>Server-Related Technologies</h3><p align="center">  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width='78' /><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx" width='48' />  </p>
 
