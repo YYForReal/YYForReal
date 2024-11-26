@@ -75,7 +75,9 @@
 <h3>LLM</h3>
 <p align="center">
   <img src="https://python.langchain.com/v0.2/img/brand/wordmark.png" alt="langchain" title="langchain" width='165' />
-  <img src="https://docs.deepwisdom.ai/main/logo-dark.svg" alt="MetaGPT" title="MetaGPT" width='75' />
+  <img src="https://docs.deepwisdom.ai/main/logo-dark.svg" alt="MetaGPT" title="MetaGPT" width='75' />MetaGPT
+  <img src="https://cloud.dify.ai/logo/logo-site.png" alt="Dify" title="Dify" width='75' />
+  
 </p>
 
 <h3>Automated Testing</h3><p align="center"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" title="Selenium" width='85' /></p>
