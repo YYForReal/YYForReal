@@ -7,7 +7,7 @@
 - Blog：
   - CSDN：https://blog.csdn.net/hyy_2000
   - Juejin：https://juejin.cn/user/3351784145298446/posts
-- Personal Navigation Page：www.yywebsite.cn  
+- Personal Navigation Page：www.yywebsite.cn | https://yyforreal.github.io/
 - Other Repo：
   - Gitee：https://gitee.com/friendArt （存放不同项目）
 
